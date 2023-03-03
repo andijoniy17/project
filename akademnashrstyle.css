@@ -1,0 +1,23 @@
+.site-header {
+  display: flex;
+  align-items: center;
+}
+
+h2 {
+  float: left;
+  margin-left: 20px;
+  font-weight: bold;
+  font-size: 35px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.yellow {
+  color: yellow;
+}
+a {
+  background-color: yellowgreen;
+  width: 90px;
+  height: 50px;
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+
+}

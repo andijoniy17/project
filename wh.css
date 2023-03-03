@@ -1,0 +1,34 @@
+.text-box {
+  background-color: rgb(123, 45, 203);
+  width: 200px;
+  height: 100px;
+}
+
+
+.parent {
+  background-color: lightblue;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+
+}
+
+.child {
+  width: 300px;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+.child1 {
+  background-color: lightgreen;
+
+}
+.child2 {
+  background-color: goldenrod;
+
+}
+.child3 {
+  background-color: orange;
+}
